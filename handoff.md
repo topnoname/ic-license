@@ -16,7 +16,7 @@ Maintain a GitHub Pages landing page that attracts learners to an IC license cou
 - Use the uploaded 16-frame transparent PNG as a CSS sprite loop. Do not generate a replacement mascot.
 - Deterministic three-step flow: greeting -> micro-lesson -> call to action.
 - Click changes the bubble text. Use a readable bubble, not random copy.
-- CTA should open `http://www.topyourwisdom.com`.
+- CTA should open `https://topyourwisdom.com/%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b9%81%e0%b8%a3%e0%b8%81-1/`.
 - Use a new dedicated GitHub repository with a `username.github.io/repository` Pages URL.
 
 ## Current State
