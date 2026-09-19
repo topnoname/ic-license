@@ -4,12 +4,12 @@ const lessons = [
     en: 'Start with one clear idea.',
   },
   {
-    th: 'เรียนรู้ทีละแนวคิด',
-    en: 'Build your IC License foundation step by step.',
+    th: 'IC คือผู้แนะนำการลงทุน',
+    en: 'An Investment Consultant provides investment information and advice.',
   },
   {
-    th: 'พร้อมเริ่มบทเรียนแล้วหรือยัง?',
-    en: 'Your next step is ready.',
+    th: 'เรียนรู้ให้พร้อมก่อนให้คำแนะนำ',
+    en: 'Build knowledge before guiding an investor.',
   },
 ];
 
