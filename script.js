@@ -28,7 +28,7 @@ function renderLesson() {
   messageTh.textContent = lesson.th;
   messageEn.textContent = lesson.en;
   stepLabel.textContent = `STEP ${currentStep + 1} / ${lessons.length}`;
-  stepBar.style.width = `${((currentStep + 1) / lessons.length) * 100}%`;
+  stepBar.style.transform = `scaleX(${(currentStep + 1) / lessons.length})`;
   cta.hidden = currentStep !== lessons.length - 1;
 }
 
